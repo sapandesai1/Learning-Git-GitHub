@@ -1,4 +1,6 @@
 # Learning-Git-GitHub
+I am adding a line locally in EGit
+
 this is to learn about how Git and GitHub works 
 
 adding a line to see how it works locally
@@ -12,3 +14,5 @@ added a 4th line
 added a 5th line
 
 added a 6xth line
+
+
