@@ -1,4 +1,1 @@
-# Learning-Git-GitHub
-This is a great tool.
-
-It is a great version control tool. It is also software repository tool.
+changes in readme file under left1 branch
