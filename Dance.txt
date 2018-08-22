@@ -3,3 +3,7 @@ Left
 Right
 Up
 Down
+left 
+right
+up
+down
