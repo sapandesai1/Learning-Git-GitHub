@@ -1,6 +1,8 @@
 # Learning-Git-GitHub
 I am adding a line locally in EGit
 
+2nd line in EGit
+
 this is to learn about how Git and GitHub works 
 
 adding a line to see how it works locally
