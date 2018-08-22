@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 merge master and left1 for the poem file
-=======
-Poem master
->>>>>>> refs/heads/master
+

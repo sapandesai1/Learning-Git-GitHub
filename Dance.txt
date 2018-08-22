@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 merge left1 and master for dance
-=======
-Dance master
->>>>>>> refs/heads/master
+
