@@ -1,2 +1,2 @@
-merge left1 and master for dance
+merge left1, left1 and master for dance
 
