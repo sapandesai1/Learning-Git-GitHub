@@ -1,4 +1,4 @@
 # Learning-Git-GitHub
-This is a cool tool.
+This is a great tool.
 
-It is a great version control tool.
+It is a great version control tool. It is also software repository tool.
